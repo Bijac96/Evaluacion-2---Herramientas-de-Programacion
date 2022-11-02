@@ -1,0 +1,17 @@
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\bin\Debug\net6.0-windows\Bastian Alonso.exe
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\bin\Debug\net6.0-windows\Bastian Alonso.deps.json
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\bin\Debug\net6.0-windows\Bastian Alonso.runtimeconfig.json
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\bin\Debug\net6.0-windows\Bastian Alonso.dll
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\bin\Debug\net6.0-windows\Bastian Alonso.pdb
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.csproj.AssemblyReference.cache
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian_Alonso.Form1.resources
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.csproj.GenerateResource.cache
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.AssemblyInfoInputs.cache
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.AssemblyInfo.cs
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.csproj.CoreCompileInputs.cache
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.dll
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\refint\Bastian Alonso.dll
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.pdb
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\Bastian Alonso.genruntimeconfig.cache
+C:\Users\Bastian\Desktop\Escritorio\UMAG\Segundo año\Semestre 2\Herramientas\Bastian Alonso\obj\Debug\net6.0-windows\ref\Bastian Alonso.dll
