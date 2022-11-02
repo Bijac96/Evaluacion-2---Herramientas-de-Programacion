@@ -49,7 +49,6 @@ namespace Bastian_Alonso
         }
         public void limpiar()
         {
-            MessageBox.Show("Incompleto");
             txtRut.Clear();
             txtNombre.Clear();
             txtCelular.Clear();
@@ -65,11 +64,9 @@ namespace Bastian_Alonso
         {
             if ((chkBoxBarba.Checked == true || chkBoxCabello.Checked == true) && cmbHora.SelectedItem != null)
             {
-                MessageBox.Show("Funciona");
                 Atencion a = new Atencion();
                 a.Fecha = Calendar.SelectionStart.ToString();
-                a.Fecha = a.Fecha.Substring(0, 10); //Quitarmos la hora de la cadena
-                MessageBox.Show(a.Fecha);
+                a.Fecha = a.Fecha.Substring(0, 10); //Quitamos la hora de la cadena
                 a.Hora = cmbHora.Text;
                 if (chkBoxBarba.Checked == true && chkBoxCabello.Checked == true)
                     a.TipoAtencion = chkBoxCabello.Text + " y " + chkBoxBarba.Text;
@@ -125,7 +122,7 @@ namespace Bastian_Alonso
                 }
                 else
                 {
-                    MessageBox.Show("Seleccione un RUT o ingrese un propietario nuevo");
+                    MessageBox.Show("Seleccione un RUT o ingrese un cliente nuevo");
                 }
             }
         }
